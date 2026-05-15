@@ -49,6 +49,7 @@ export default function Footer() {
                 height={48}
                 style={{
                   objectFit: "contain",
+                  filter: "brightness(0) invert(1)",
                 }}
               />
             </div>

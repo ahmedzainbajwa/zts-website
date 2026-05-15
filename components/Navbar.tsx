@@ -75,7 +75,7 @@ export default function Navbar() {
               alt="ZTS Telecom"
               width={120}
               height={44}
-              style={{ objectFit: "contain" }}
+              style={{ objectFit: "contain", filter: "brightness(0) invert(1)" }}
             />
           </button>
 
