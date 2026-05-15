@@ -406,7 +406,7 @@ export default function Catalog() {
             {active.models.map((model) => (
               <a
                 key={model.name}
-                href="https://wa.me/971552444381"
+                href="https://wa.me/971545017544"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -489,7 +489,7 @@ export default function Catalog() {
               Don&apos;t see your model? We can source it for you.
             </p>
             <a
-              href="https://wa.me/971552444381"
+              href="https://wa.me/971545017544"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-lime"

@@ -192,7 +192,7 @@ export default function Hero() {
           {/* CTA Buttons */}
           <div style={{ display: "flex", gap: "16px", flexWrap: "wrap", marginBottom: "56px" }}>
             <a
-              href="https://wa.me/971552444381"
+              href="https://wa.me/971545017544"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-lime"

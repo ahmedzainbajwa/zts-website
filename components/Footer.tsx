@@ -151,7 +151,7 @@ export default function Footer() {
                   WhatsApp / Phone
                 </div>
                 <a
-                  href="https://wa.me/971552444381"
+                  href="https://wa.me/971545017544"
                   style={{
                     fontSize: "0.9rem",
                     fontWeight: 700,
@@ -161,7 +161,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  +971 55 244 4381
+                  +971 54 501 7544
                 </a>
               </div>
               <div>
@@ -212,7 +212,7 @@ export default function Footer() {
               View Licence
             </a>
             <a
-              href="https://wa.me/971552444381"
+              href="https://wa.me/971545017544"
               target="_blank"
               rel="noopener noreferrer"
               style={{

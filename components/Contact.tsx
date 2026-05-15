@@ -152,7 +152,7 @@ export default function Contact() {
               marginBottom: "8px",
             }}
           >
-            +971 55 244 4381
+            +971 54 501 7544
           </div>
           <div
             style={{
@@ -165,7 +165,7 @@ export default function Contact() {
           </div>
 
           <a
-            href="https://wa.me/971552444381"
+            href="https://wa.me/971545017544"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-lime"
@@ -228,10 +228,10 @@ export default function Contact() {
               Phone / WhatsApp
             </div>
             <a
-              href="tel:+971552444381"
+              href="tel:+971545017544"
               style={{ fontSize: "1rem", fontWeight: 700, color: "#F2EDE5", textDecoration: "none" }}
             >
-              +971 55 244 4381
+              +971 54 501 7544
             </a>
           </div>
 

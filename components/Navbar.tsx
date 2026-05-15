@@ -122,7 +122,7 @@ export default function Navbar() {
           {/* CTA */}
           <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
             <a
-              href="https://wa.me/971552444381"
+              href="https://wa.me/971545017544"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-lime"

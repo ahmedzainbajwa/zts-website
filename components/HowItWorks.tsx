@@ -201,7 +201,7 @@ export default function HowItWorks() {
           }}
         >
           <a
-            href="https://wa.me/971552444381"
+            href="https://wa.me/971545017544"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-lime"
